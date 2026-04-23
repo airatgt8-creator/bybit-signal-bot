@@ -1,0 +1,4 @@
+requests==2.32.3
+python-dotenv==1.0.1
+pybit==5.9.0
+schedule==1.2.2
